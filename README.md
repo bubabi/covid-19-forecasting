@@ -1,3 +1,3 @@
 # covid-19-forecasting
 
-![Image description](https://ibb.co/wyXfB87)
+![Image of Project] (https://i.ibb.co/2qQTWRS/cov-d19-forecast-ng.png)
